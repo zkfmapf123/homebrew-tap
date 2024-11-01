@@ -1,4 +1,4 @@
-class wip < Formula
+class Wip < Formula
     desc "Wip"
     homepage "https://github.com/zkfmapf123/Wip"
     url "https://github.com/zkfmapf123/Wip/releases/download/v1.0.5/wip"
