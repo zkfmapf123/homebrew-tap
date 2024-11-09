@@ -5,6 +5,9 @@
 brew tap zkfmapf123/homebrew-tap
 brew search [...]
 
+## untap
+brew untap zkfmapf123/[...]
+
 ```
 
 ## Wip
