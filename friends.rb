@@ -1,10 +1,10 @@
 class Friends < Formula
-    desc "Wip"
-    homepage "https://github.com/zkfmapf123/Wip"
-    url "https://github.com/zkfmapf123/Wip/releases/download/v1.0.11/wip"
-    sha256 "daf5f11a375cc1a0ec8cad8f73b6e316c63a68e70e12a3ee34f1a89ead55f609"
+    desc "Friends"
+    homepage "https://github.com/zkfmapf123/Wakeup-Friends"
+    url "https://github.com/zkfmapf123/Wakeup-Friends/releases/download/v6.0.0/Friends"
+    sha256 "e7afa11d835b5e840eb83b1c04ade46514ae279f47767aacc9aad4c8c8fadb5c"
   
     def install
-      bin.install "wip"
+      bin.install "Friends"
     end
   end

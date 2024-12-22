@@ -17,3 +17,7 @@ brew untap zkfmapf123/[...]
 ## dtf
 
 <a href="https://github.com/zkfmapf123/dtf"> dft Git Repository </a>
+
+## Friends
+
+<a href="https://github.com/zkfmapf123/Wakeup-Friends"> Friends Git Repository </a>
