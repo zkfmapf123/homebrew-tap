@@ -3,7 +3,7 @@ class Ecsctl < Formula
     homepage "https://github.com/zkfmapf123/ecsctl"
     url "https://github.com/zkfmapf123/dtf/releases/download/v1.0.0/dft"
     url "https://github.com/zkfmapf123/ecsctl/releases/tag/v1.0.0/ecsctl"
-    sha256 "8291c30863a87466132d3690ffd8828df8d74b25be190ed668381551498564d9"
+    sha256 "7691908efabb24849d7f5ee3f5389d541546de94a4774e8af10cd887852a8412"
   
     def install
       bin.install "ecsctl"
