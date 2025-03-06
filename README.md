@@ -8,6 +8,9 @@ brew search [...]
 ## untap
 brew untap zkfmapf123/[...]
 
+## sha256 추출
+SHA256=$(shasum -a 256 [node] | awk '{ print $1 }')
+echo "SHA-256: $SHA256"
 ```
 
 ## Wip
