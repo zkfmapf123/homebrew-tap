@@ -5,6 +5,6 @@ class Ecsctl < Formula
     sha256 "473c676ecf9aa6620643a3421a6050445ffa1375c13d58de1ac564bb87e683f4"
   
     def install
-      bin.install "Ecsctl"
+      bin.install "ecsctl"
     end
   end
