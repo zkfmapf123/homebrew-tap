@@ -5,6 +5,9 @@
 brew tap zkfmapf123/homebrew-tap
 brew search [...]
 
+## update
+brew update && brew tap --force-auto-update zkfmapf123/tap
+
 ## untap
 brew untap zkfmapf123/[...]
 
