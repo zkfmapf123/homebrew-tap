@@ -21,6 +21,10 @@ echo "SHA-256: $SHA256"
 
 <a href="https://github.com/zkfmapf123/dtf"> dft Git Repository </a>
 
+## ecsctl
+
+<a href="https://github.com/zkfmapf123/ecsctl"> ecsctl Git Repository </a>
+
 ## Friends
 
 <a href="https://github.com/zkfmapf123/Wakeup-Friends"> Friends Git Repository </a>
